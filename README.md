@@ -1,5 +1,5 @@
-# HUAWEI-Deep-Learning-Experience
-## HUAWEI Deep Learning Experience, December 11-12, Stockholm, Sweden
+# HUAWEI-Deep-Learning-Experience-Hackathon
+## HUAWEI Deep Learning Experience Hackathon, December 11-12, Stockholm, Sweden
 
 ### Datasets: 
 - Dataset A: Unlabeled dataset with 100,000 unlabeled images
