@@ -14,7 +14,7 @@ Your goal is to exploit the unlabeled information and build a mechanism that is 
 ### Task Description:
 You should show how well you can make use of the unlabeled data in order to build a classifier that can generalize well when trained with small labeled datasets. Your ultimate goal is to build and use a useful prior and build a classifier that maximize the evaluation criterion while trained and tested with dataset C. 
 
-### Platfrom:
+### Platform:
 Hopsworks (Jupyter + Spark).
 
 The repository just contains the codes of training the model with A and B, as C is used for the evaluation.
